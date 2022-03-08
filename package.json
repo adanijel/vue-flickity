@@ -1,7 +1,7 @@
 {
-  "name": "vue-flickity",
+  "name": "vue-flickity-updated",
   "version": "1.2.0",
-  "description": "A Vue Component for Flickity.js (http://flickity.metafizzy.co/).",
+  "description": "Updated Vue Component for Flickity.js (http://flickity.metafizzy.co/).",
   "main": "src/flickity.vue",
   "scripts": {
     "lint": "eslint src --ext .js,.vue",
